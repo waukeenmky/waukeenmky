@@ -19,7 +19,9 @@ Here are some ideas to get you started:
   </head>
 
 <body>
+  <div style = "height: 200px; widht 100%; background-color: orange"> 
   
+  </div>
 <h1> <strong> KIRK GILBERT BERNABE  </strong> </h1>
   </body>
   
