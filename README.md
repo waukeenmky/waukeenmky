@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+  <head>
+    
+  </head>
 
-
+<body>
+  
 <h1> <strong> KIRK GILBERT BERNABE  </strong> </h1>
+  </body>
+  
