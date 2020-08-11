@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <html>
-  <head>
-    
-  </head>
-
 <body>
-  <div style = "height: 200px; widht 100%; background-color: orange"> 
-  
-  </div>
-<h1> <strong> KIRK GILBERT BERNABE  </strong> </h1>
-  </body>
-  
+
+<h1 style="color:blue;text-align:center;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+
+</body>
+</html>
