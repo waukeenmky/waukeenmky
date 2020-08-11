@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> Hi its me KIRK! </h1>
+<h3> -Hi its me KIRK! </h1>
 
 <h1> KIRK GILBERT BERNABE </h1>
 
