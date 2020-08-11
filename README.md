@@ -13,8 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> -Hi its me KIRK! </h1>
+```html
+<h2>Example of code</h2>
 
-<h1> KIRK GILBERT BERNABE </h1>
-
-<p> Hi just to let you know guys. I just finished my studies a few months ago and still waiting for the graduation rites. For now i am self studying, searching, experimenting stuffs to improve my self. I really wanted to be a good Developer so i can build applications or website that not just for fun but also to be fit in the corporate world. </p>
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
