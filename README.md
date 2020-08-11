@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
-<body>
+<h3> HI ITS ME KIRK! </h1>
 
-<h1 style="color:blue;text-align:center;">This is a heading</h1>
-<p style="color:red;">This is a paragraph.</p>
+<h1> KIRK GILBERT BERNABE </h1>
 
-</body>
-</html>
+<p> Hi just to let you know guys. I just finished my studies a few months ago and still waiting for the graduation rites. For now i am self studying, searching, experimenting stuffs to improve my self. I really wanted to be a good Developer so i can build applications or website that not just for fun but also to be fit in the corporate world. </p>
