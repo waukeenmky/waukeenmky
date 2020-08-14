@@ -1,4 +1,8 @@
 
+![sampleimage](https://user-images.githubusercontent.com/69509445/90263560-692ea200-de82-11ea-9a54-18fecf01abcf.png)
+
+
+
 ### Hi its me KIRK! :wave::wave:
 
 # KIRK GILBERT BERNABE 
